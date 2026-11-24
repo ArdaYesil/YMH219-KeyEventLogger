@@ -1,0 +1,23 @@
+# Visual Studio / .NET derleme çıktıları
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ll]og/
+TestResults/
+*.log
+.vscode/
+.idea/
+
+# Uygulamanın ürettiği kayıt dosyaları depoya girmesin
+keylog_*.txt
+
+# Yayınlanmış tek dosya exe (GitHub'a gitmesin)
+Exe/
